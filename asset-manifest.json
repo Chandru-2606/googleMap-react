@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Chandru-2606/googleMap-react.git/static/css/main.deb52829.css",
-    "main.js": "/Chandru-2606/googleMap-react.git/static/js/main.12fc9a95.js",
-    "static/js/787.f9b7dc3d.chunk.js": "/Chandru-2606/googleMap-react.git/static/js/787.f9b7dc3d.chunk.js",
-    "static/media/homepage.jpg": "/Chandru-2606/googleMap-react.git/static/media/homepage.2a3a1a977dbc9647a90f.jpg",
-    "static/media/bg.jpg": "/Chandru-2606/googleMap-react.git/static/media/bg.b9f65c5d38a200d812df.jpg",
-    "index.html": "/Chandru-2606/googleMap-react.git/index.html",
-    "main.deb52829.css.map": "/Chandru-2606/googleMap-react.git/static/css/main.deb52829.css.map",
-    "main.12fc9a95.js.map": "/Chandru-2606/googleMap-react.git/static/js/main.12fc9a95.js.map",
-    "787.f9b7dc3d.chunk.js.map": "/Chandru-2606/googleMap-react.git/static/js/787.f9b7dc3d.chunk.js.map"
+    "main.css": "/googleMap-react/static/css/main.15b4aef1.css",
+    "main.js": "/googleMap-react/static/js/main.26304dc5.js",
+    "static/js/787.f9b7dc3d.chunk.js": "/googleMap-react/static/js/787.f9b7dc3d.chunk.js",
+    "static/media/homepage.jpg": "/googleMap-react/static/media/homepage.2a3a1a977dbc9647a90f.jpg",
+    "static/media/bg.jpg": "/googleMap-react/static/media/bg.b9f65c5d38a200d812df.jpg",
+    "index.html": "/googleMap-react/index.html",
+    "main.15b4aef1.css.map": "/googleMap-react/static/css/main.15b4aef1.css.map",
+    "main.26304dc5.js.map": "/googleMap-react/static/js/main.26304dc5.js.map",
+    "787.f9b7dc3d.chunk.js.map": "/googleMap-react/static/js/787.f9b7dc3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.deb52829.css",
-    "static/js/main.12fc9a95.js"
+    "static/css/main.15b4aef1.css",
+    "static/js/main.26304dc5.js"
   ]
 }
