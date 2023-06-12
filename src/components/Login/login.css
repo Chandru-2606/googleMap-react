@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.login-Container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./../../images/homepage.jpg);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+.login-Container form{
+    width: 25%;
+    border-radius: 15px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+.login-Container .ant-input-affix-wrapper {
+    width: 80%;
+    height: 50px;
+    margin-top: 40px;
+}
+.login-error{
+    color: red;
+}
+.sign_btn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .sign_btn a{
+    border: none;
+    background-color: white;
+    margin-top: 18px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .sign_btn a:hover{
+    color: red;
+    cursor: pointer;
+  }
+
+  .login-btn{
+    width: 80%;
+    height: 40px;
+    border: none;
+    background-color: rgb(68, 0, 255);
+    color: white;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-bottom: 60px;
+  }

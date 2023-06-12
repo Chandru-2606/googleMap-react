@@ -1,0 +1,42 @@
+.addCustomer-dashboard{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./../../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.addCustomer-dashboard p{
+    font-size: 20px;
+    font-weight: bolder; 
+}
+.addCustomer-dashboard form{
+    width: 25%;
+    height: 450px;
+    background-color: white;
+    line-height: 2;
+    border-radius: 10px;
+}
+.addCustomer-dashboard .ant-input-affix-wrapper {
+    width: 80%;
+    /* margin-top: 20px; */
+
+
+}
+.addCustomer-dashboard .error-addcustomer{
+    color: red;
+}
+.addCustomer-dashboard button{
+    width: 70%;
+    height: 40px;
+    border: none;
+    background-color: rgb(68, 0, 255);
+    color: white;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}

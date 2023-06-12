@@ -1,0 +1,60 @@
+.customerDashboard{
+    width: 100%;
+    height: 100vh;
+    background-color: #f9f9f9;
+}
+.header-customer{
+    width: 100%;
+    height: 66px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#cbc4ce;
+}
+.header-customer h1{
+    color: white;
+}
+.header-btns button{
+    background-color: #46a6ff;
+    border: none;
+    height: 35px;
+    border-radius: 10px;
+    width: 150px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    margin-left: 50px;
+}
+.table-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+table{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+}
+.table-container th{
+    width: 20%;
+    color: #e48fb8;
+    border: 2px solid #e5e8eb;
+    height: 40px;
+}
+.table-container td{
+    width: 20%;
+    border: 2px solid #e5e8eb;
+    height: 40px;
+}
+.table-container button{
+    background-color: #46a6ff;
+    border: none;
+    height: 35px;
+    border-radius: 10px;
+    width: 150px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
